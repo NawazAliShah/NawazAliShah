@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nawazalishah" alt="nawazalishah" /></a> </p>
 
-- 🌱 I’m currently learning **AWS DevOps Engineering**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 👯 I’m looking to collaborate on **AWS Community Builder**
 
